@@ -3,3 +3,5 @@ hello world!
 Java 123456
 
 private int id;
+
+private int name;
